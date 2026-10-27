@@ -32,7 +32,7 @@ Keep filenames unchanged once in use. Renaming or deleting a file breaks every s
 
 Everything the signatures need now lives in this repo.
 
-- `images/headshots/` : `alecsan-calibod.png`, `andrew-strong.png`, `dane-salter.png`, `hayden-garn.png`, `kath-barber.png`, `kerry-williams.png`, `sam-heather.png` (200 x 200)
+- `images/headshots/` : `alecsan-calibod.png`, `andrew-strong.png`, `dane-salter.png`, `hayden-garn.png`, `kath-barber.png`, `kerry-williams.png`, `sam-heather.png`, `steve-brassington.png` (200 x 200)
 - `images/icons/` : `icon-linkedin.png`, `icon-facebook.png`, `icon-instagram.png`, `icon-phone.png`, `icon-email.png`, `icon-website.png`, `icon-location.png` (200 x 200)
 
 Same base URL as the banners, for example
